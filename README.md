@@ -78,6 +78,9 @@ Feel free to check it out and connect with me.
 
 I’ll also be using hashtags like **#codsoft #internship #python** on my posts.
 
+🔗 LinkedIn : www.linkedin.com/in/jayesh-ahirrao-984047219
+
+
 ---
 
 ## 🔧 How to Run the Code
@@ -86,11 +89,3 @@ If you want to try out any of the projects:
 
 ```bash
 python filename.py
-
-
-About Me
-I'm always looking to build cool things and grow as a developer. This internship helped me sharpen my Python skills and get more comfortable working on small projects from scratch.
-
-Let’s connect:
-
-🔗 LinkedIn : www.linkedin.com/in/jayesh-ahirrao-984047219
